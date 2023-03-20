@@ -1,3 +1,3 @@
 # Calculadora
 
-Calculadora creada en React
+Calculadora creada en React :)
